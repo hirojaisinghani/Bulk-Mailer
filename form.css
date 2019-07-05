@@ -1,0 +1,19 @@
+
+.container {
+	top: 613px;
+	float: left;
+	position: absolute;
+}
+#form_container
+{
+	padding:15px 15px;
+	margin-top:15px;
+	background:	#E4C79D;	
+}
+body
+{
+	background-color: #F4EAD5;
+	background-image: url("images/inivitation.jpg");
+	background-size: cover;
+}
+
